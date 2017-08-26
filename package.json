@@ -8,7 +8,7 @@
     "url": "https://github.com/darrudanoo/cordova-plugin-firebase-celer"
   },
   "name": "cordova-plugin-firebase-celer",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "description": "Plugin do firebase ajustado pra celer",
   "cordova": {
     "id": "cordova-plugin-firebase-celer",
