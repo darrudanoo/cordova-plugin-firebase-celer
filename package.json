@@ -5,13 +5,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/darrudanoo/cordova-plugin-firebase-celer-user"
+    "url": "https://github.com/darrudanoo/cordova-plugin-firebase-celer"
   },
-  "name": "cordova-plugin-firebase-celer-user",
-  "version": "0.2.0",
+  "name": "cordova-plugin-firebase-celer",
+  "version": "0.1.27",
   "description": "Plugin do firebase ajustado pra celer",
   "cordova": {
-    "id": "cordova-plugin-firebase-celer-user",
+    "id": "cordova-plugin-firebase-celer",
     "platforms": [
       "android",
       "ios",
